@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Shadrach
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning PHP, Node
-- 💞️ I’m looking to collaborate on python projects
+- 👋 Hello World! I’m Shadrach and I'm a Computer Science Student.
+- 👀 I solve problems in NodeJs, Python and Java.
 - 📫 You can reach me on my mail
 
 <!---
