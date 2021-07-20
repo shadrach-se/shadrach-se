@@ -1,5 +1,5 @@
 - 👋 Hello World! I’m Shadrach and I'm a Computer Science Student.
-- 👀 I solve problems in NodeJs, Python and Java.
+- 👀 I solve problems in NodeJs, Python and PHP.
 - 📫 You can reach me on my mail
 
 <!---
