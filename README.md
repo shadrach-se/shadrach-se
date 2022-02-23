@@ -1,4 +1,4 @@
-- 👋 Hello World! I’m Shadrach and I'm a Computer Science Student.
+- 👋 Hello World! I’m Shadrach and I'm a Software Engineer.
 - 👀 I solve problems in NodeJs, Python and PHP.
 - 📫 You can reach me on my mail
 
